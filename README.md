@@ -98,3 +98,15 @@ Unity 환경별 Firebase 포함 Andorid 종속성 해결 /Addressable 환경 설
 3. 지정된 카메라로부터의 DrawCall 빈도
 
 <img width="890" height="645" alt="image" src="https://github.com/user-attachments/assets/a42fe19c-f2c1-47b0-b105-48ee696c9ad8" />
+
+
+
+### Poiyomi Shader Converter
+1.  Runtime/Editor Mode 둘 다 가능한 Shader Converter 2
+2.  Poiyomi Oldversion에서 현재 깔려있는 버전의 pro 버전으로 업그레이드 할 때, 누락 되는 부분 수정
+   - _ClippingMask -> _AlphaMask
+   - _RGBMaskEnabled 유무 확인후, Texture 추가, agba masking세팅
+   - RenderQueue 설정
+
+<img width="525" height="823" alt="image" src="https://github.com/user-attachments/assets/381891a0-dffa-4014-b9a6-9f901673a17a" />
+
