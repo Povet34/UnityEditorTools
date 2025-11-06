@@ -107,6 +107,9 @@ Unity 환경별 Firebase 포함 Andorid 종속성 해결 /Addressable 환경 설
    - _ClippingMask -> _AlphaMask
    - _RGBMaskEnabled 유무 확인후, Texture 추가, agba masking세팅
    - RenderQueue 설정
+   - Skine Outline ZOffset 설정
+   - ColorSpace HSV로 설정
 
-<img width="525" height="823" alt="image" src="https://github.com/user-attachments/assets/381891a0-dffa-4014-b9a6-9f901673a17a" />
+<img width="656" height="1196" alt="image" src="https://github.com/user-attachments/assets/2c1ac98b-b121-4d7b-968c-509ac802a653" />
+
 
