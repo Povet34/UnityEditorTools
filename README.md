@@ -676,3 +676,9 @@ Unity 환경별 Firebase 포함 Andorid 종속성 해결 /Addressable 환경 설
 </div>
 </details>
 
+### Addresable Checker
+<img width="711" height="900" alt="image" src="https://github.com/user-attachments/assets/87550731-ad79-4a14-a43d-b0a09849518d" />
+
+
+1. Assets/Resources_moved 경로에 어드레서블 체크가 누락된 아이템을 찾고 제어할 수 있는 툴
+2. 선택한 항목을 어드레서블로 재등록할 수 있으나, Reource폴더로 이동시켜서, 다시 어드레서블을 등록할 수 있게 함.
