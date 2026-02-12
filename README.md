@@ -73,14 +73,11 @@ Dev Only / Test Only / Prod Only: 개별 환경 처리
 - Copy 버튼으로 클립보드에 복사
 - Firebase Console 버튼으로 Firebase로 이동
 
-### EnvBuildManager
+### EnvBuildManager & EnvSwitcher
 Unity 환경별 Firebase 포함 Andorid 종속성 해결 /Addressable 환경 설정 자동설정 후 빌드 해주는 에디터 확장 도구입니다. 
 
 <img width="387" height="576" alt="image" src="https://github.com/user-attachments/assets/46bba639-e946-457d-b18f-82f51e47b26e" />
 
-
-
-### EnvSwitcher
 
 
 
